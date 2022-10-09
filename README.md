@@ -10,4 +10,4 @@ Today in this tutorial I’ll walk you through creating an android weather app u
   * uses-permission android:name="android.permission.INTERNET" .
   * I have added android:screenOrientation="portrait" .
   * Also I disabled the default Action Bar .
-  * We can use Theme.AppCompat.Light.NoActionBar to implement the theme .
+  * We can use Theme.AppCompat.Light.NoActionBar to implement these theme .
